@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "data_version": "1.0.0",
+  "files": [
+    {
+      "name": "samp-sch.zib",
+      "size": "510000000",
+      "path": "samp-sch.zib",
+      "url": "https://github.com/SakataGintosep/samp-assest/releases/download/v1.0.0/samp-sch.zib",
+      "gpu": "all"
+    }
+  ]
+}
